@@ -721,6 +721,12 @@ export default function Home() {
           .hero h1 {
             font-size: 2.5rem;
           }
+          .hero-content {
+            padding-top: 80px;
+          }
+          .hero-subtitle {
+            margin-top: 1rem;
+          }
           .about-grid, .contact-wrapper {
             grid-template-columns: 1fr;
           }
